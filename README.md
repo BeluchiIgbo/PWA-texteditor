@@ -5,7 +5,7 @@ A text editor that runs in the browser. The app will be a single-page applicatio
 
 
 ## Deployed
-[Heroku]() 
+[Render]() 
 
 ## Installation
 
